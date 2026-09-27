@@ -15,7 +15,7 @@ TERMINAL 1 — SERVIDOR
 
 python servidor_rpc.py
 
-# esperado:
+
 Servidor RPC ativo na porta 8000...
 
 
@@ -23,7 +23,6 @@ TERMINAL 2 — CLIENTE
 
 python cliente_rpc.py
 
-# esperado:
 10 + 5 = 15
 10 - 5 = 5
 10 x 5 = 50
